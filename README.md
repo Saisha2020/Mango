@@ -1,2 +1,1 @@
-# Mango
-This is a White Hat Jr .Project ,which I Saisha Sahni ,was assigned to program ,You have to drag the stone in order to release the stone to thereby pluck the Mango From the Tree
+# e4e0e6e621f97ac9c97961c3f2bdd065
